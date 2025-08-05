@@ -25,19 +25,6 @@ This project is a minimal HTTP server built **entirely in plain Java** using low
 
 ---
 
-## 📂 Project Structure
-
-simple-http-server-java/
-├── src/
-│ └── tcp_server_creation/
-│ └── Simplehttpserver.java
-└── README.md
-
-yaml
-Copy
-Edit
-
----
 
 ## ▶️ How to Run
 
